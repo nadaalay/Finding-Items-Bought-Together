@@ -4,7 +4,7 @@
 
 1. [Project Overview and Motivation](#motivation)
 2. [File Descriptions](#files)
-3. [Installation] (#installation)
+3. [Installation](#installation)
 4. [Results](#results)
 5. [Licensing](#licensing)
 
