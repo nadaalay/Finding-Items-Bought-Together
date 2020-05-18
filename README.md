@@ -19,8 +19,8 @@ In this project, I will analyze an online retail transactional dataset to answer
 To answer the questions, I will build an association rules model using Apriori Algorithm to find the items that are usually bought together by the customers. I will also find the items that are usually bought together in different specific countries.
 
 ## File Descriptions <a name="files"></a>
-	- One notebook file `Finding_Items_Bought_Together.ipynb` which contains the code. 
-	- One xlsx file `Online Retail.xlsx` which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for an online retail.
+- One notebook file `Finding_Items_Bought_Together.ipynb` which contains the code. 
+- One xlsx file `Online Retail.xlsx` which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for an online retail.
 	
 ## Installation <a name="installation"></a>
 All libraries are avilable in Anaconda distribution of Python except [mlxtend library](http://rasbt.github.io/mlxtend/installation/), you should install it. The code should run using Python versions 3.*.
